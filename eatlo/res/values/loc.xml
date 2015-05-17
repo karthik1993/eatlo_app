@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location">
+        <item>HSR Layout</item>
+        <item>Koramangala</item> 
+        <item>Indiranagar</item> 
+        <item>AKR Tech Park</item> 
+        <item>Sarjapur Road</item> 
+        <item>Domlur</item> 
+        <item>Bellandur</item> 
+        <item>Embassy Tech Village</item> 
+      
+    </string-array>
+    
+</resources>

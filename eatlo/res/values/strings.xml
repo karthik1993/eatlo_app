@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eatlo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="first">  Pita Triangles with Hummus\n and Crunchy side 	salad</string>
+	<string name="second">Pizza</string>
+	<string name="third">Burger with French Fries</string>
+	<string name="fourth">Pasta</string>
+	<string name="fifth">Pita Triangles with Hummus\n and Crunchy side 	salad</string>
+</resources>
